@@ -26,6 +26,12 @@
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
+Решение :
+![до изменений] (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BE.jpg)
+![после изменений] (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5.jpg)
+
+
+
 ### Задание 2
 
 1. Установите поддержку **LUKS**.
@@ -34,6 +40,12 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
+Решение: 
+1. Шифрование раздела sdb - (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/1.jpg)
+2. Открываем раздел Lukсом - (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/2.jpg)
+3. Добавляем файловую систему и монтируем (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/3.jpg)
+4. Раздел зашифрован - (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/4.jpg)
+5. Завершение - (https://github.com/maxgn87/sdb-homeworks-13-02/blob/main/img/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/5.jpg)
 
 ## Дополнительные задания (со звёздочкой*)
 
